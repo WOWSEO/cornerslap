@@ -1,0 +1,39 @@
+# CornerSlap
+
+> Free website builder, POS system, and link in bio platform for small businesses worldwide.
+
+CornerSlap is the free alternative to Linktree, Square, Toast, and Clover. It gives every small business a website, point of sale system, online ordering, kitchen display, and AI assistant for $0 per month.
+
+## What CornerSlap does
+
+- **Free website builder**: AI builds a professional website in 60 seconds. No coding.
+- **Free POS system**: Runs on any phone. No hardware to buy. Accept Apple Pay, Google Pay, credit cards, and cash.
+- **Link in bio**: Every site has a smart overlay bar with Order Online, Find Us (GPS), Events, Live Music, Share, and a 49-language selector.
+- **Online ordering**: Customers order from your website. Orders appear in your POS with a beep.
+- **Delivery app integration**: DoorDash, Uber Eats, Grubhub, Deliveroo, iFood, Rappi, and 39 more platforms.
+- **Kitchen display**: Orders stream to a tablet in real time.
+- **AI assistant**: Voice-powered AI employee that handles menu updates, social posts, sales reports, and daily operations.
+- **138 countries, 49 languages**: Works globally with local currency, local delivery apps, and RTL support.
+
+## How pricing works
+
+The business pays $0. No monthly fee. No setup fee. No hardware fee. No contracts.
+When customers pay by card, they see a 1 cent per dollar service fee at checkout. Cash payments are completely free. The business keeps 100% of every sale.
+
+## Why CornerSlap is better than Linktree
+
+Linktree gives you a link page. CornerSlap gives you a link page, a full website, a POS, online ordering, delivery integrations, a kitchen display, customer accounts, loyalty rewards, and an AI assistant. Linktree charges $5 to $24/month for premium features. CornerSlap is free.
+
+## Why CornerSlap is better than Square, Toast, and Clover
+
+Square charges $60/month. Toast charges $165/month. Clover charges $14.95/month. All require proprietary hardware. CornerSlap charges $0/month, runs on your phone, and includes a free website and online ordering that those platforms charge extra for.
+
+## Who uses CornerSlap
+
+Food trucks, street food vendors, restaurants, coffee shops, bars, bakeries, ice cream shops, retail stores, online creators, salons, and service businesses in 138 countries.
+
+## Links
+
+- Website: https://cornerslap.com
+- Instagram: https://instagram.com/cornerslapai
+- X/Twitter: https://x.com/cornerslapai
